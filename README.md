@@ -35,3 +35,5 @@ Simple WhatsApp Bot
 ```
 # bot
 # bot
+# wa3
+# wa3
